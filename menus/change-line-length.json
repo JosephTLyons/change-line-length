@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Change Line Length",
+        "command": "change-line-length:toggle"
+    }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Change Line Length",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "change-line-length:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

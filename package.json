@@ -1,0 +1,18 @@
+{
+  "name": "change-line-length",
+  "main": "./lib/change-line-length",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "change-line-length:toggle"
+  },
+  "repository": "https://github.com/atom/change-line-length",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
