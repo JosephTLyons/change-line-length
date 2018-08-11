@@ -23,8 +23,8 @@ like.
 ## TODO:
 
 - [ ] Remove bugginess
-    - [ ] Preferred Line Length sometimes jitters between two settings (as seen
-    with the wrap guide)
+    - [ ] Preferred Line Length sometimes jitters once when switching between
+    two settings
     - [ ] Sometimes it flickers between two settings
     - [ ] Sometimes Atom says it needs to restart and begins to act very strange
 - [ ] Fix error sound when using commands
