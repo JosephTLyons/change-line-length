@@ -24,6 +24,12 @@
       "type": "integer",
       "default": 0,
       "minimum": 0
+    },
+    "preferredLineLengthValues": {
+      "title": "Preferred Line Length Values",
+      "description": "This represents the array of values you can choose cycle through.  Add numbers separated by commas (',').",
+      "type": "array",
+      "default": [80, 100]
     }
   }
 }
