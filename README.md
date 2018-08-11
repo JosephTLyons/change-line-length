@@ -11,8 +11,10 @@ Simply change the default values in the preferredLineLengthValues array to
 whatever you like.
 
 ## TODO:
-- [ ] Remove bugginess (jittering wrap guide, sometimes it flickers between two
-settings)
+- [ ] Remove bugginess
+    - [ ] Jittering wrap guide
+    - [ ] Sometimes it flickers between two settings
+    - [ ] Sometimes Atom says it needs to restart and begins to act very strange
 - [ ] Fix error sound when using commands
 - [ ] Find a way to discreetly store the current index adjustment instead of
 using package settings
