@@ -2,7 +2,7 @@
   "name": "change-line-length",
   "main": "./lib/change-line-length",
   "version": "0.0.0",
-  "description": "A package that lets you cycle through different Preferred Line Length settings set by you.",
+  "description": "Cycle through different user-defined Preferred Line Length settings.",
   "keywords": [
      "change",
      "cycle",
