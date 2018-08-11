@@ -29,7 +29,7 @@
       "title": "Preferred Line Length Values",
       "description": "This represents the array of values you can choose cycle through.  Add numbers separated by commas (',').",
       "type": "array",
-      "default": [80, 100]
+      "default": [100]
     }
   }
 }
