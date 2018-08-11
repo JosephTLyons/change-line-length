@@ -2,12 +2,14 @@
   "name": "change-line-length",
   "main": "./lib/change-line-length",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A package that lets you cycle through different Preferred Line Length settings set by you.",
   "keywords": [
+     "change",
+     "cycle",
+     "preferred",
+     "line",
+     "length"
   ],
-  "activationCommands": {
-    "atom-workspace": "change-line-length:toggle"
-  },
   "repository": "https://github.com/atom/change-line-length",
   "license": "MIT",
   "engines": {
