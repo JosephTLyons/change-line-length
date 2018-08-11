@@ -16,5 +16,14 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+  },
+  "configSchema": {
+    "currentIndex": {
+      "title": "Current Index",
+      "description": "This setting is managed by the package, do not adjust it.",
+      "type": "integer",
+      "default": 0,
+      "minimum": 0
+    }
   }
 }
