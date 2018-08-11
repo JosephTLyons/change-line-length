@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "change-line-length:toggle"
+    "ctrl-alt-cmd-left": "decrement-line-length:toggle",
+    "ctrl-alt-cmd-right": "increment-line-length:toggle"
   }
 }

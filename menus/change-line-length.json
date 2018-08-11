@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Change Line Length",
-        "command": "change-line-length:toggle"
+        "command": "increment-line-length:toggle"
     }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "change-line-length:toggle"
+              "command": "increment-line-length:toggle"
             }
           ]
         }
