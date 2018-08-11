@@ -28,7 +28,6 @@ preferredLineLengthValues array to whatever you like.
     two settings
     - [ ] Sometimes it endlessly cycles between two settings
     - [ ] Sometimes Atom says it needs to restart and begins to act very strange
-- [ ] Fix error sound when using commands
 - [ ] Find a way to discreetly store the current index adjustment instead of
 using package settings
 - [ ] Present array for user to insert in settings (Settings UI for array?)
