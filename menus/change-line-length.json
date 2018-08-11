@@ -2,13 +2,13 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Increment Line Length",
-        "command": "increment-line-length:toggle"
+        "label": "Decrement Line Length",
+        "command": "decrement-line-length:toggle"
       },
 
       {
-          "label": "Decrement Line Length",
-          "command": "decrement-line-length:toggle"
+          "label": "Increment Line Length",
+          "command": "increment-line-length:toggle"
       }
     ]
   },
@@ -20,13 +20,13 @@
           "label": "Change Line Length",
           "submenu": [
             {
-              "label": "Increment Line Length",
-              "command": "increment-line-length:toggle"
+              "label": "Decrement Line Length",
+              "command": "decrement-line-length:toggle"
             },
 
             {
-              "label": "Decrement Line Length",
-              "command": "decrement-line-length:toggle"
+              "label": "Increment Line Length",
+              "command": "increment-line-length:toggle"
             }
           ]
         }
