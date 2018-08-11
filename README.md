@@ -40,3 +40,4 @@ using package settings
 - [ ] Present array for user to insert in settings (Settings UI for array?)
 - [ ] Visual indication of PLL, either a pop-up of new value or have down in
 bottom menu (Ex. "PLL: 80")
+- [ ] Make default original Preferred Line Length?
