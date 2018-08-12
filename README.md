@@ -46,3 +46,4 @@ using package settings
 - [ ] Visual indication of PLL, either a pop-up of new value or have down in
 bottom menu (Ex. "PLL: 80")
 - [ ] Make default original Preferred Line Length?
+- [ ] Rename package to "change-preferred-line-length"
