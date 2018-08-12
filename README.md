@@ -2,16 +2,21 @@
 An [Atom](https://atom.io) text editor package that lets you cycle through
 different user-defined Preferred Line Length settings
 
-## Information:
+## History:
 
 Because I frequently switch my Preferred Line Length between 80 characters (for
 documentation) and 100 characters (for code), I often spend too much time
 navigating to the editor settings panel, scrolling down, and manually adjusting
 this setting.  There exists some packages that allow you to insert multiple wrap
-guides, but I've found this solution to be somewhat of a distraction.  So I
-decided it would be best to make a package that allows the user to set as many
-Preferred Line Length settings as they want and give them the option to cycle
-through them quickly, with key commands.
+guides, but I've found this solution to be somewhat of a distraction.  Also,
+many packages, such as [`autoflow`](https://atom.io/packages/autoflow) and
+[`text-align`](https://atom.io/packages/text-align) are dependent upon the
+Preferred Line Length setting; having multiple wrap guides can be confusing when
+using these packages as only one of the wrap guides will represent the true
+Preferred Line Length value being used.  So I decided it would be best to make a
+package that allows the user to set as many Preferred Line Length settings as
+they want and give them the option to cycle through them quickly, with key
+commands.
 
 ## Instructions:
 
