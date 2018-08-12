@@ -27,7 +27,7 @@
     },
     "preferredLineLengthValues": {
       "title": "Preferred Line Length Values",
-      "description": "This represents the array of values you can choose cycle through.  Add numbers separated by commas (',').",
+      "description": "This represents the array of values you can choose cycle through.  This is simply the default value, if you wish to add your own settings, please do so in Atom's config.cson file (consult README.md for more details.)",
       "type": "array",
       "default": [100]
     }
