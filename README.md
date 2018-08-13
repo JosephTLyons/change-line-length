@@ -1,4 +1,5 @@
 # change-line-length
+
 An [Atom](https://atom.io) text editor package that lets you cycle through
 different user-defined Preferred Line Length settings
 
@@ -51,3 +52,4 @@ settings
 bottom menu (Ex. "PLL: 80")
 - [ ] Make default original Preferred Line Length?
 - [ ] Rename package to "change-preferred-line-length"
+- [ ] After publishing, insert download badge
