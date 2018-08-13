@@ -28,9 +28,10 @@ config.cson file and add your preferred values:
 
     "change-line-length":
       preferredLineLengthValues: [
-        value1
-        value2
-        value3
+        80
+        100
+        120
+        ...
       ]
 
 ## TODO:
