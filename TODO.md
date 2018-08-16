@@ -9,7 +9,7 @@
 settings
 - [ ] Present array for user to insert in settings:
 [Aerijo's Suggestion](https://discuss.atom.io/t/bugginess-associated-with-changing-atom-settings-via-code/57772/14)
-- [ ] Visual indication of PLL, status bar: ("PLL: 80") - v0.2.0
+- [ ] Visual indication of current PLL in status bar: ("PLL: 80") - v0.2.0
 - [ ] Make default original Preferred Line Length?
 - [ ] Rename package to "change-preferred-line-length"
 - [ ] Add a .gif for `change-line-length` in action.
