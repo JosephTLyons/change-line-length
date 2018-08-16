@@ -40,8 +40,8 @@ effect.  You should be able to use the package to quickly change between your
 Preferred Line Length settings.
 
 ## Thank You
-Endless amounts of both @Aerijo and @DamnedScholar for helping me when I ran
-into bugs putting this package together.
-
-https://discuss.atom.io/t/changing-an-atom-setting-through-code/57728/6
-https://discuss.atom.io/t/bugginess-associated-with-changing-atom-settings-via-code/57772/10
+Thanks to both @Aerijo and @DamnedScholar for helping me
+[here](https://discuss.atom.io/t/changing-an-atom-setting-through-code/57728/6)
+and
+[here](https://discuss.atom.io/t/bugginess-associated-with-changing-atom-settings-via-code/57772/10)
+when I ran into bugs putting this package together.
