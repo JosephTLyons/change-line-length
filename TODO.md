@@ -12,4 +12,5 @@ settings
 bottom menu (Ex. "PLL: 80")
 - [ ] Make default original Preferred Line Length?
 - [ ] Rename package to "change-preferred-line-length"
+- [ ] Add a .gif for `change-line-length` in action.
 - [ ] After publishing, insert download badge
