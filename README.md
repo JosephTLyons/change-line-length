@@ -24,7 +24,7 @@ commands.
 Atom doesn't seem to provide a way for the user to input values into an array in
 the package settings in the same way one can input integers (correct me if I'm
 wrong!), so you must edit the `config.cson` to add your own custom preferred
-line length values.  Find the settings section for `change-line-legnth` in the
+line length values.  Find the settings section for `change-line-length` in the
 `config.cson` file and add your preferred values:
 
     "change-line-length":
