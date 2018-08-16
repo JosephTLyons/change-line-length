@@ -7,9 +7,9 @@
     - [ ] Sometimes Atom says it needs to restart and begins to act very strange
 - [ ] Find a way to discreetly store the current index instead of using package
 settings
-- [ ] Present array for user to insert in settings (Settings UI for array?)
-- [ ] Visual indication of PLL, either a pop-up of new value or have down in
-bottom menu (Ex. "PLL: 80") - v0.2.0
+- [ ] Present array for user to insert in settings:
+[Aerijo's Suggestion](https://discuss.atom.io/t/bugginess-associated-with-changing-atom-settings-via-code/57772/14)
+- [ ] Visual indication of PLL, status bar: ("PLL: 80") - v0.2.0
 - [ ] Make default original Preferred Line Length?
 - [ ] Rename package to "change-preferred-line-length"
 - [ ] Add a .gif for `change-line-length` in action.
