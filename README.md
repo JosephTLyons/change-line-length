@@ -41,7 +41,7 @@ Preferred Line Length settings.
 
 ## Thank You
 Thanks to both @Aerijo and @DamnedScholar for helping me
-[here](https://discuss.atom.io/t/changing-an-atom-setting-through-code/57728/6)
+[here](https://discuss.atom.io/t/changing-an-atom-setting-through-code/57728)
 and
-[here](https://discuss.atom.io/t/bugginess-associated-with-changing-atom-settings-via-code/57772/10)
+[here](https://discuss.atom.io/t/bugginess-associated-with-changing-atom-settings-via-code/57772)
 when I ran into bugs putting this package together.
