@@ -13,6 +13,7 @@ settings
     - [ ] Add a small image of this in the README.md
 - [ ] Make default value in array original Preferred Line Length?
 - [ ] Rename package to "change-preferred-line-length"?
+- [ ] Throw error if settings pane is opened: [DamnedScholars's Suggestion](https://discuss.atom.io/t/bugginess-associated-with-changing-atom-settings-via-code/57772/25)
 
 *Pull requests for any of these are welcome here, especially for the status bar
 icon.*
