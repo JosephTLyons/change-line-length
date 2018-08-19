@@ -13,7 +13,6 @@ settings
     - [ ] Add a small image of this in the README.md
 - [ ] Make default value in array original Preferred Line Length?
 - [ ] Rename package to "change-preferred-line-length"?
-- [ ] After publishing, insert download badge
 
 *Pull requests for any of these are welcome here, especially for the status bar
 icon.*

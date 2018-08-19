@@ -1,4 +1,7 @@
 # change-line-length
+
+[![apm install change-line-length](https://apm-badges.herokuapp.com/apm/change-line-length.svg)](https://atom.io/packages/change-line-length)
+
 An [Atom](https://atom.io) text editor package that lets you cycle through
 different user-defined Preferred Line Length settings
 
