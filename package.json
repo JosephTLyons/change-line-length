@@ -10,7 +10,7 @@
      "line",
      "length"
   ],
-  "repository": "https://github.com/atom/change-line-length",
+  "repository": "https://github.com/JosephTLyons/change-line-length",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
