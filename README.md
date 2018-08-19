@@ -1,8 +1,4 @@
 # change-line-length
-*Due to the bugginess related to changing settings in Atom, this package has not
-been published.  I hope that at some point I can find a workaround, so that I
-may release it.*
-
 An [Atom](https://atom.io) text editor package that lets you cycle through
 different user-defined Preferred Line Length settings
 
