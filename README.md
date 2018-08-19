@@ -7,6 +7,7 @@ different user-defined Preferred Line Length settings
 
 ## `change-line-length` in Action:
 
+*Focus on the wrap guide.*
 ![Action](./misc/change-line-length.gif)
 
 ## History:
