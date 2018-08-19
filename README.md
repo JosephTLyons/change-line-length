@@ -30,13 +30,15 @@ wrong!), so you must edit the `config.cson` to add your own custom preferred
 line length values.  Find the settings section for `change-line-length` in the
 `config.cson` file (Atom > Config...) and add your preferred values:
 
-    "change-line-length":
-      preferredLineLengthValues: [
-        80
-        100
-        120
-        ...
-      ]
+```cson
+"change-line-length":
+  preferredLineLengthValues: [
+    80
+    100
+    120
+    ...
+  ]
+```
 
 After you've saved you `config.cson` file, you'll need to restart Atom for the
 settings to take effect (this is intentional as capturing the array values on
