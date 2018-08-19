@@ -1,22 +1,21 @@
 {
   "name": "change-line-length",
   "main": "./lib/change-line-length",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Cycle through different user-defined Preferred Line Length settings.",
   "keywords": [
-     "change",
-     "cycle",
-     "preferred",
-     "line",
-     "length"
+    "change",
+    "cycle",
+    "preferred",
+    "line",
+    "length"
   ],
   "repository": "https://github.com/JosephTLyons/change-line-length",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "configSchema": {
     "currentIndex": {
       "title": "Current Index",
@@ -29,7 +28,9 @@
       "title": "Preferred Line Length Values",
       "description": "This represents the array of values you can choose cycle through.  This is simply the default value, if you wish to add your own settings, please do so in Atom's config.cson file (consult README.md for more details.)",
       "type": "array",
-      "default": [100]
+      "default": [
+        100
+      ]
     }
   }
 }
