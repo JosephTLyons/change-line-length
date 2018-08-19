@@ -38,9 +38,10 @@ line length values.  Find the settings section for `change-line-length` in the
         ...
       ]
 
-After you've saved you `config.cson` file, restart Atom for the settings to take
-effect.  You should be able to use the package to quickly change between your
-Preferred Line Length settings.
+After you've saved you `config.cson` file, you'll need to restart Atom for the
+settings to take effect (this is intentional as capturing the array values on
+the fly during each run is inefficient).  You should be able to use the package
+to quickly change between your Preferred Line Length settings.
 
 ## Thank You
 Thanks to both @[Aerijo](https://github.com/Aerijo) and
