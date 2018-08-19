@@ -6,6 +6,10 @@ may release it.*
 An [Atom](https://atom.io) text editor package that lets you cycle through
 different user-defined Preferred Line Length settings
 
+## `change-line-length` in Action:
+
+![Action](./misc/change-line-length.gif)
+
 ## History:
 
 Because I frequently switch my Preferred Line Length between 80 characters (for
@@ -42,6 +46,19 @@ After you've saved you `config.cson` file, you'll need to restart Atom for the
 settings to take effect (this is intentional as capturing the array values on
 the fly during each run is inefficient).  You should be able to use the package
 to quickly change between your Preferred Line Length settings.
+
+## Note:
+
+There seems to be "bugginess" associated with running this package if the
+settings tab is open and set to the editor (the location of the Preferred Line
+Length setting).  So if you are experiencing any sort of strange flickering when
+running the package, try exiting out of the settings tab.  I can't seem to fix
+as this seems like a bug with Atom.  I've experienced many bugs when trying to
+set settings via the settings tab that include the setting not actually being
+recognized or settings "flickering" between an older and newer value when trying
+to change one.  These bugs existed for me long before creating this package and
+I think they are the root cause for the strange flickering that occurs when this
+package is ran while the settings tab is open.
 
 ## Thank You
 Thanks to both @[Aerijo](https://github.com/Aerijo) and
