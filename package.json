@@ -17,8 +17,8 @@
   },
   "dependencies": {},
   "configSchema": {
-    "warningIsDisplayed": {
-      "title": "Display Warning",
+    "settingsWarningIsDisplayed": {
+      "title": "Display Settings Warning",
       "description": "Deactivating this setting will turn off the warning that informs the user that there are visual bugs associated with runnning the package with the settings view open.",
       "type": "boolean",
       "default": true
