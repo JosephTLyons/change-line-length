@@ -55,14 +55,14 @@ There seems to be "bugginess" associated with running this package if the
 settings tab is open and set to the editor (the location of the Preferred Line
 Length setting).  So if you are experiencing any sort of strange flickering when
 running the package, try exiting out of the settings tab.  I can't seem to fix
-as this seems like a bug with Atom.  I've experienced many bugs when trying to
-set settings via the settings tab; these bugs include the setting not actually
-being recognized or settings "flickering" between an older and newer value when
-trying to update a value.  These bugs existed for me long before creating this
-package and I think they are the root cause for the strange flickering that
-occurs when this package is ran while the settings tab is open.  If anyone has
-any sort of ideas for a fix, please let me know, as stability is always a
-priority for me.
+this as this seems like a bug with Atom.  I've experienced many bugs when trying
+to set settings via the settings tab; these bugs include the setting not
+actually being recognized or settings "flickering" between an older and newer
+value when trying to update a value.  These bugs existed for me long before
+creating this package and I think they are the root cause for the strange
+flickering that occurs when this package is ran while the settings tab is open.
+If anyone has any sort of ideas for a fix, please let me know, as stability is
+always a priority for me.
 
 ## Thank You
 Thanks to both @[Aerijo](https://github.com/Aerijo) and
