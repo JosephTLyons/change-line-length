@@ -2,8 +2,6 @@
 
 [![change-line-length download badge](https://badgen.net/apm/dl/Strip-Newlines)](https://atom.io/packages/change-line-length)
 
-Old badge system is not in service anymore, now using badgen
-
 An [Atom](https://atom.io) text editor package that lets you cycle through
 different user-defined Preferred Line Length settings
 
