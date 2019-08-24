@@ -1,6 +1,10 @@
 # change-line-length
 
-[![change-line-length download badge](https://badgen.net/apm/dl/Strip-Newlines)](https://atom.io/packages/change-line-length)
+[![change-line-length download badge](https://badgen.net/apm/dl/change-line-length)](https://atom.io/packages/change-line-length)
+
+[![change-line-length version badge](https://badgen.net/apm/version/change-line-length)](https://atom.io/packages/change-line-length)
+
+[![change-line-length stars badge](https://badgen.net/apm/stars/change-line-length)](https://atom.io/packages/change-line-length)
 
 An [Atom](https://atom.io) text editor package that lets you cycle through
 different user-defined Preferred Line Length settings
